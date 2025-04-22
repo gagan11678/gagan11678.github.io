@@ -162,10 +162,6 @@
     </div>
   </section>
 
-  <!-- ========== FOOTER ========= -->
-  <footer class="bg-gray-900 text-gray-400 py-6 text-center text-sm">
-    © 2025 Gagandeep Thind — Built with Tailwind CSS & pure HTML.
-  </footer>
 
   <!-- ========== Reveal Script ========= -->
   <script>
